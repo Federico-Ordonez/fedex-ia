@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Claude Haiku 5.5 · 8 de octubre de 2026
 
