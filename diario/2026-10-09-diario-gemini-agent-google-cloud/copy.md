@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini agent de Google Cloud · 9 de octubre de 2026
 
