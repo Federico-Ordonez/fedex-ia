@@ -1,4 +1,4 @@
-Estado: programado en Buffer para el domingo 11 de octubre 13:00 (Buenos Aires)
+Estado: programado en Buffer para el sábado 10 de octubre 13:00 (Buenos Aires)
 
 # HeyGen Voice · 9 de octubre de 2026
 
