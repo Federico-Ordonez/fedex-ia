@@ -6,7 +6,7 @@ Estado: pendiente de aprobación
 - Hecho: HeyGen anunció HeyGen Voice, su modelo de voz propio, el 9 de octubre de 2026 (ayer; hoy es sábado 10).
 - Qué es: aprende la voz de una persona y lee un texto con ella; modos Instant y Professional (documentación de HeyGen).
 - Ranking: según Artificial Analysis (arena Controlled Voice, 8 voces clonadas, 4 de EE. UU. y 4 del Reino Unido, en inglés), HeyGen Voice empata en el puesto 1-2 con Qwen-Audio-3.1-TTS-Plus (Elo 1201 frente a 1187).
-- Disponibilidad: según HeyGen, la voz base es gratis en su plataforma y su API; Professional Voice Clone cuesta 99 dólares al mes, se entrena con 30 minutos a 3 horas de voz del dueño y con su consentimiento explícito. La documentación dice que la clonación rápida (Instant) es gratis solo durante la vista previa. Idiomas, países y planes: no se detallan. No menciona la UE, el EEE ni España.
+- Disponibilidad: según HeyGen, la voz base es gratis en su plataforma y su API; Professional Voice Clone cuesta 99 dólares al mes, se entrena con 30 minutos a 3 horas de voz del dueño y con su consentimiento explícito. La documentación dice que la clonación rápida (Instant) es gratis solo durante la vista previa. Idiomas, países y planes: no se detallan.
 - Oficial: https://www.prnewswire.com/news-releases/heygen-launches-heygen-voice-debuting-at-1-on-artificial-analysis-leaderboard-302903718.html (comunicado de HeyGen) y https://developers.heygen.com/docs/models/heygen-voice (documentación).
 - Prensa / terceros: https://artificialanalysis.ai/text-to-speech/leaderboard/controlled-voice (ranking). No encontré cobertura de un medio grande (Verge, TechCrunch, Reuters); ver Verificación.
 
@@ -23,9 +23,9 @@ Todas con eyebrow «HeyGen · 9 de octubre». Sin línea de fuente en slides 1-4
 2. Qué pasó (oscuro). Titular: «Empata en el primer puesto de un ranking.» Cuerpo: «HeyGen anunció HeyGen Voice, su modelo de voz propio. Según Artificial Analysis, empata en el puesto 1 de su ranking en inglés, con 8 voces clonadas.»
    - Objeto 3D: podio de tres bloques con una esfera azul arriba.
    - Alt: Ilustración 3D de un podio de tres bloques claros con una esfera azul arriba. Texto: según Artificial Analysis, HeyGen Voice empata en el puesto 1 de un ranking en inglés.
-3. Disponibilidad (gris). Titular: «Está en HeyGen y en su API.» Cuerpo: «Según HeyGen, la voz base es gratis y clonar tu voz con calidad profesional cuesta 99 dólares al mes. La clonación rápida es gratis solo en la vista previa, y no se menciona la UE, el EEE ni España.»
+3. Disponibilidad (gris). Titular: «Está en HeyGen y en su API.» Cuerpo: «Según HeyGen, la voz base es gratis y clonar tu voz con calidad profesional cuesta 99 dólares al mes. La clonación rápida es gratis solo en la vista previa, y no detalla países.»
    - Objeto 3D: panel plateado con una llave azul delante.
-   - Alt: Ilustración 3D de un panel plateado con una llave azul delante. Texto: la voz base es gratis; clonar tu voz con calidad profesional cuesta 99 dólares al mes; no se menciona la UE, el EEE ni España.
+   - Alt: Ilustración 3D de un panel plateado con una llave azul delante. Texto: la voz base es gratis; clonar tu voz con calidad profesional cuesta 99 dólares al mes; no detalla países.
 4. Qué significa (oscuro). Titular: «Tu voz podría narrar tus videos.» Cuerpo: «Si creas videos o cursos, puedes generar la narración desde un texto con tu voz clonada. HeyGen exige el consentimiento explícito del dueño de la voz.»
    - Objeto 3D: cubo perla que emite tres anillos plateados, con una esfera azul.
    - Alt: Ilustración 3D de un cubo perla que emite tres anillos plateados con una esfera azul al lado. Texto: tu voz clonada podría narrar tus videos; HeyGen exige consentimiento explícito.
@@ -33,11 +33,11 @@ Todas con eyebrow «HeyGen · 9 de octubre». Sin línea de fuente en slides 1-4
    - Objeto 3D: marcador azul y tarjeta perla (objeto «cierre»).
    - Alt: Ilustración 3D de un marcador azul junto a una tarjeta perla. Texto: ¿Clonarías tu voz para tus videos? Seguí a @fedex.ia y guarda el post.
 
-## Caption para copiar (140 palabras + 5 hashtags)
+## Caption para copiar (131 palabras + 5 hashtags)
 ```text
 HeyGen anunció el 9 de octubre HeyGen Voice, su modelo de voz propio. Aprende la voz de una persona y lee un texto con ella. Según Artificial Analysis, empata en el primer puesto de su ranking Controlled Voice, que compara 8 voces clonadas en inglés.
 
-Según HeyGen, la voz base es gratis en su plataforma y su API, y clonar tu voz con calidad profesional cuesta 99 dólares al mes. Su documentación dice que la clonación rápida es gratis solo durante la vista previa. HeyGen no detalla idiomas ni países, y no menciona la UE, el EEE ni España.
+Según HeyGen, la voz base es gratis en su plataforma y su API, y clonar tu voz con calidad profesional cuesta 99 dólares al mes. Su documentación dice que la clonación rápida es gratis solo durante la vista previa. HeyGen no detalla idiomas ni países.
 
 Si creas videos o cursos, podrías generar la narración desde un texto con tu voz. La empresa exige el consentimiento explícito del dueño de la voz.
 
@@ -74,7 +74,7 @@ Fuentes: Anuncio oficial de HeyGen: prnewswire.com/news-releases/heygen-launches
 | Puesto 1-2, Elo 1201 vs 1187, 8 voces, inglés EE. UU. y Reino Unido | Página del ranking Controlled Voice de Artificial Analysis |
 | Voz base gratis en plataforma y API; Professional Voice Clone 99 dólares al mes; 30 min a 3 h; consentimiento explícito | Comunicado de HeyGen |
 | Clonación rápida gratis solo durante la vista previa | Documentación de HeyGen |
-| Sin idiomas, países ni UE/EEE/España | No figuran en el comunicado ni en la documentación |
+| Sin idiomas ni países | No figuran en el comunicado ni en la documentación |
 
 Dejado afuera y por qué:
 - «Primer puesto» a secas: en la página del ranking es un empate 1-2 con Qwen-Audio-3.1-TTS-Plus.
