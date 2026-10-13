@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Meta presenta Muse Wonder (12 de octubre de 2026)
 
