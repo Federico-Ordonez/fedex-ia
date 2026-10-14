@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Google lanza Gemini 4 Argon (13 de octubre de 2026)
 
