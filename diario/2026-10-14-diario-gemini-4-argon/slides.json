@@ -1,0 +1,7 @@
+{"slides":[
+{"tipo":"portada","fondo":"blanco","eyebrow":"Google · 13 de octubre","titular":"Google lanzó su mejor modelo.","bajada":"Gemini 4 Argon: quién puede usarlo y cuánto cuesta.","pastillas":["Gemini 4 Argon","Desliza →"],"objeto":"portada"},
+{"tipo":"noticia","fondo":"oscuro","eyebrow":"Google · 13 de octubre","titular":"Argon está pensado para trabajos largos.","cuerpo":"Según Google, rinde mejor en tareas de varios pasos de código, finanzas, derecho, ciberseguridad y ciencia. Los datos de rendimiento son de la empresa.","objeto":"pasos"},
+{"tipo":"noticia","fondo":"gris","eyebrow":"Google · 13 de octubre","titular":"Llega a la app con planes pagos.","cuerpo":"Google AI Pro y Ultra lo tienen en la app de Gemini y en el Modo IA de Búsqueda. Google dice que es global, pero no nombra países ni la UE, el EEE o España.","objeto":"planes"},
+{"tipo":"noticia","fondo":"oscuro","eyebrow":"Google · 13 de octubre","titular":"Su API tiene precio de lanzamiento.","cuerpo":"Según Google, cuesta 2 dólares por millón de tokens de entrada y 10 de salida, y después del 30 de noviembre sube a 4 y 20. Si usas herramientas hechas sobre la API de Gemini, tu costo podría subir.","objeto":"rampa"},
+{"tipo":"cierre","fondo":"blanco","titular":"¿Qué tarea larga le darías a Argon?","cuerpo":"Guarda el post para recordar los planes y las fechas.","pastillas":["Seguí a @fedex.ia","Guardar"],"fuente":"blog.google","objeto":"cierre"}
+]}
