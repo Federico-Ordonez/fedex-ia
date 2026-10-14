@@ -5,7 +5,7 @@ Estado: pendiente de aprobación
 ## Noticia base
 - Fecha del hecho: martes 13 de octubre de 2026 (fecha del anuncio oficial de Google). Argon ya había salido el 30 de septiembre solo para socios de ciberseguridad (Fairwind); el 13 es el lanzamiento amplio.
 - Qué es: Gemini 4 Argon, «el último modelo de frontera» de Google, pensado para «trabajo profundo» en código, finanzas, derecho, ciberseguridad y ciencia.
-- Disponibilidad: API (Google AI Studio y plataforma Gemini, nivel pago); Gemini para empresas y Antigravity (empresas y suscriptores Ultra); app de Gemini y Modo IA de Búsqueda para Google AI Pro y Ultra. Google dice «global» y no lista países ni menciona la UE, el EEE o España. Contexto de 1M de tokens por API.
+- Disponibilidad: API (Google AI Studio y plataforma Gemini, nivel pago); Gemini para empresas y Antigravity (empresas y suscriptores Ultra); app de Gemini y Modo IA de Búsqueda para Google AI Pro y Ultra. Google dice «global» y no especifica países ni menciona la UE, el EEE o España. Contexto de 1M de tokens por API.
 - Precio API: 2 USD entrada / 10 USD salida por millón de tokens como precio de lanzamiento; después del 30 de noviembre de 2026, 4 / 20.
 - Oficial: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/
 - Prensa: https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon (reproduce la nota de Reuters)
@@ -17,16 +17,16 @@ Estado: pendiente de aprobación
 ## Slides
 1. Portada (blanco). Google lanzó su mejor modelo. Bajada: Gemini 4 Argon: quién puede usarlo y cuánto cuesta. Pastillas: Gemini 4 Argon / Desliza →. Objeto: columna grafito con esfera azul y dos cubos. Alt: Ilustración 3D de una columna grafito con una esfera azul encima, junto a un cubo perla y uno plata. Texto: Google lanzó su mejor modelo.
 2. (oscuro) Argon está pensado para trabajos largos. Según Google, rinde mejor en tareas de varios pasos de código, finanzas, derecho, ciberseguridad y ciencia. Los datos de rendimiento son de la empresa. Objeto: cuatro bloques en escalera, el más alto azul. Alt: Ilustración 3D de cuatro bloques que suben como una escalera, el último azul. Texto: Argon está pensado para trabajos largos.
-3. (gris) Llega a la app con planes pagos. Google AI Pro y Ultra lo tienen en la app de Gemini y en el Modo IA de Búsqueda. Google dice que es global, pero no nombra países ni la UE, el EEE o España. Objeto: tres cilindros de distinta altura, el más alto azul. Alt: Ilustración 3D de tres cilindros de distinta altura, plata, blanco y azul. Texto: Llega a la app con planes pagos.
+3. (gris) Llega a la app con planes pagos. Google AI Pro y Ultra lo tienen en la app de Gemini y en el Modo IA de Búsqueda. Google dice que es global, pero no especifica países ni menciona la UE, el EEE o España. Objeto: tres cilindros de distinta altura, el más alto azul. Alt: Ilustración 3D de tres cilindros de distinta altura, plata, blanco y azul. Texto: Llega a la app con planes pagos.
 4. (oscuro) Su API tiene precio de lanzamiento. Según Google, cuesta 2 dólares por millón de tokens de entrada y 10 de salida, y después del 30 de noviembre sube a 4 y 20. Si usas herramientas hechas sobre la API de Gemini, tu costo podría subir. Objeto: rampa perla con esfera azul abajo. Alt: Ilustración 3D de una rampa perla que sube, con una esfera azul en la base. Texto: Su API tiene precio de lanzamiento.
 5. Cierre (blanco). ¿Qué tarea larga le darías a Argon? Guarda el post para recordar los planes y las fechas. Pastillas: Seguí a @fedex.ia / Guardar. Fuente: blog.google. Objeto: marcador azul y tarjeta perla. Alt: Ilustración 3D de un marcador azul junto a una tarjeta perla. Texto: ¿Qué tarea larga le darías a Argon?
 
-## Caption para copiar (149 palabras + 5 hashtags)
+## Caption para copiar (146 palabras + 5 hashtags)
 
 ```text
 Google lanzó el 13 de octubre Gemini 4 Argon, al que presenta como su modelo más potente. Según la empresa, rinde mejor en tareas largas de código, finanzas, derecho, ciberseguridad y ciencia. Los datos de rendimiento son de Google.
 
-Google AI Pro y Ultra lo tienen en la app de Gemini y en el Modo IA de Búsqueda. En Antigravity, su herramienta de programación, lo tienen Ultra y las empresas. Para desarrolladores está en la API a 2 dólares por millón de tokens de entrada y 10 de salida; después del 30 de noviembre pasa a 4 y 20. Google dice que es global, pero no nombra países ni aclara si llega a la UE, el EEE o España.
+Google AI Pro y Ultra lo tienen en la app de Gemini y en el Modo IA de Búsqueda. En Antigravity, su herramienta de programación, lo tienen Ultra y las empresas. Para desarrolladores está en la API a 2 dólares por millón de tokens de entrada y 10 de salida; después del 30 de noviembre pasa a 4 y 20. Google dice que es global, pero no especifica países ni menciona la UE, el EEE o España.
 
 Si usas herramientas hechas sobre la API de Gemini, revisa cuánto te cobran desde diciembre. Guarda el post y sigue a @fedex.ia para la noticia de IA de cada día.
 
