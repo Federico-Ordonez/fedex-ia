@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # OpenAI lanza GPT-Live-1.1, con 13 voces nuevas en ChatGPT (15 de octubre de 2026)
 
