@@ -58,3 +58,57 @@ Caso: una dietética que vende por WhatsApp.
 
 **Caption:**
 La mayoría de las pymes usa la IA como un chat que le escribe mensajes. Ese es el nivel 1. En el 2 armás flujos y en el 3 la IA decide los pasos por vos. ¿En cuál estás? Comentá AGENTE y te paso cómo subir al siguiente.
+
+## 4. Ampliación: videos de IA para fotógrafos y videógrafos con más de 50 mil vistas
+
+Búsqueda del 18/10/2026 en YouTube con 16 búsquedas en inglés y español. Saqué los anuncios de marca y los videos que no tratan de IA.
+
+**Edición y selección de fotos**
+
+| Video | Canal | Vistas | Antigüedad |
+|---|---|---|---|
+| [Photoshop 2026: 12 New Features, One Big Catch!](https://youtu.be/gkwi_GtMiLE) | PiXimperfect | 503 mil | 11 meses |
+| [Why Learn Photoshop When ChatGPT Does Everything?](https://youtu.be/G6coglmKi4I) | PiXimperfect | 365 mil | 1 año |
+| [ChatGPT Broke Photo Editing — ONE Prompt](https://youtu.be/TPJzcl5QjZg) | AI plush monster | 288 mil | 2 meses |
+| [How to Extract & Convert Lightroom Presets using ChatGPT](https://youtu.be/J_uqXfACl2s) | Roy van der Wens | 212 mil | 1 año |
+| [10 Photoshop Skills AI Just Made Obsolete](https://youtu.be/iu55Bq1EzF8) | PiXimperfect | 180 mil | 4 meses |
+| [Photoshop Is Now Inside ChatGPT!](https://youtu.be/WXQtfO-upSQ) | Photoshop Training Channel | 108 mil | 10 meses |
+| [New AI Software Can Cull, Edit, And Color Grade Your Photos](https://youtu.be/Ky9OzcBAi78) | Fstoppers | 106 mil | 2 años |
+| [Wedding Photo Editing Just Changed Forever! Nano Banana + Photoshop](https://youtu.be/SER_4Rqn7P4) | Chandru Bharathy | 97 mil | 1 año |
+| [AI Editing and Culling Software Comparison](https://youtu.be/tmfRpJ6d0kU) | Vanessa Joy | 83 mil | 3 años |
+| [Cull Photos 10X Faster with Lightroom AI](https://youtu.be/IaUF-rIuLZQ) | PHLEARN | 81 mil | 11 meses |
+| [Cull and Edit an entire wedding in 1 Hour with Aftershoot](https://youtu.be/MDCembCSr00) | Fstoppers | 80 mil | 3 años |
+| [ChatGPT + Lightroom: editar fotos con IA gratis](https://youtu.be/t6yd72h7NhM) | Socialarte | 74 mil | 1 año |
+| [I Let ChatGPT Edit My Photos in Lightroom](https://youtu.be/-yfI-ZLqQsQ) | Glyn Dewis | 72 mil | 2 semanas |
+| [Imagen AI Review: Editing a FULL wedding](https://youtu.be/zN80NfDLmqU) | Signature Edits | 57 mil | 2 años |
+
+**ChatGPT y negocio del fotógrafo**
+
+| Video | Canal | Vistas | Antigüedad |
+|---|---|---|---|
+| [Master ChatGPT for PHOTOGRAPHY in 20 Minutes](https://youtu.be/bNsx3SGqQFw) | NSB Pictures | 210 mil | 1 año |
+| [This APP can Level Up your Wedding Photography Business (Fully Automated)](https://youtu.be/wf4to7r4qbE) | Photography Educators | 53 mil | 3 años |
+
+**Videógrafos y cine**
+
+| Video | Canal | Vistas | Antigüedad |
+|---|---|---|---|
+| [8 Tips For Serious Filmmakers Embracing AI](https://youtu.be/0Ep_SP8-UkE) | Mike J Mitch | 790 mil | 4 meses |
+| [A.I. Tools for Filmmakers](https://youtu.be/43t4r9KpCQk) | Film Riot | 493 mil | 3 años |
+| [10 Best AI Tools For Videography & Filmmaking](https://youtu.be/T2bemdepEwc) | Fulaan Creative | 220 mil | 3 años |
+| [How to Make a Wedding Love Story Using AI](https://youtu.be/QfylrxtQSSs) | Higgsfield AI | 191 mil | 1 mes |
+| [I Let AI Edit a Wedding Video & the Results SHOCKED Me](https://youtu.be/AVxFhSveu68) | Matt Johnson | 120 mil | 8 meses |
+| [How Filmmakers Should Actually Be Using AI Video](https://youtu.be/0XcWkgHE4mA) | Herman Huang | 113 mil | 4 meses |
+| [Should Filmmakers Be Using AI?](https://youtu.be/GmB8gmY-jf8) | Brady Bessette | 53 mil | 5 meses |
+| [I Tested AI On Real Wedding Footage](https://youtu.be/ZsWN3kdU3g0) | Matt Johnson | 50 mil | 7 meses |
+
+**Debate: ¿la IA reemplaza al fotógrafo?**
+
+| Video | Canal | Vistas | Antigüedad |
+|---|---|---|---|
+| [Photographers finally realize AI has won](https://youtu.be/T2vKZlCUUc8) | Fstoppers | 115 mil | 9 meses |
+| [¿Desapareceremos los fotógrafos por la IA?](https://youtu.be/bOfdVnadvfA) | OSCARENFOTOS | 64 mil | 3 años |
+| [AI Just Made Professional Photographers OBSOLETE](https://youtu.be/FDlxuGWbZqw) | Tony & Chelsea Northrup | 64 mil | 1 año |
+| [9 herramientas de IA para fotografía](https://youtu.be/ZrNc-Qlvhns) | RBG Escuela | 60 mil | 3 años |
+
+**Lectura:** el contenido que funciona es sobre edición con IA (Photoshop, Lightroom, ChatGPT para editar) y sobre el miedo a ser reemplazado. Automatizar la parte comercial (consultas, presupuestos, entregas) tiene un solo video que pasa las 50 mil vistas. En español hay 3 videos y ninguno pasa las 75 mil.
