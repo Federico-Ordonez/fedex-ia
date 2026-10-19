@@ -1,0 +1,57 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "OpenAI · 16 de octubre",
+   "titular": "ChatGPT arma presentaciones editables.",
+   "bajada": "Quién tiene ChatGPT Slides y cómo se usa.",
+   "pastillas": [
+    "ChatGPT Slides",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de varias láminas perla apiladas en abanico, con una lámina azul al frente. Texto: ChatGPT arma presentaciones editables."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "OpenAI · 16 de octubre",
+   "titular": "Pides la presentación en Space.",
+   "cuerpo": "En Work, le pides a ChatGPT que cree una presentación en Space. Puedes partir de una conversación, archivos, un esquema o un deck de ejemplo.",
+   "objeto": "empieza",
+   "alt": "Ilustración 3D de una lámina perla con una esfera azul al lado de una pila de bloques blancos. Texto: Pides la presentación en Space."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "OpenAI · 16 de octubre",
+   "titular": "Editas a mano o con el chat.",
+   "cuerpo": "Cambias texto, imágenes, formas y gráficos, y tu equipo edita a la vez con comentarios. En la web exporta a PowerPoint, PDF o Google Slides.",
+   "objeto": "edita",
+   "alt": "Ilustración 3D de dos láminas grafito unidas por un conector azul sobre una base plateada. Texto: Editas a mano o con el chat."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "OpenAI · 16 de octubre",
+   "titular": "Hoy solo Pro, Business y Enterprise.",
+   "cuerpo": "Se habilita de a poco para cuentas elegibles con acceso a Space, en web y escritorio. Free, Go y Plus no aparecen. No especifica en qué países está disponible.",
+   "objeto": "acceso",
+   "alt": "Ilustración 3D de dos pilares perla con una barra azul que cruza entre ellos, sobre una base blanca. Texto: Hoy solo Pro, Business y Enterprise."
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Lo usarías para tus propuestas?",
+   "cuerpo": "Guarda el post y sigue a @fedex.ia para la noticia de IA de cada día.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "help.openai.com",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul junto a una tarjeta perla inclinada. Texto: ¿Lo usarías para tus propuestas?"
+  }
+ ]
+}
