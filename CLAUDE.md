@@ -10,3 +10,9 @@ Toda guía en PDF para @fedex.ia sigue `guias/estilo/ESTILO-GUIA-PDF.md`: format
 - La cuenta va siempre como `@fedex.ia`.
 - Exportá con el Chromium de `/opt/pw-browsers` y revisá el PDF convertido a imagen antes de entregarlo (sección 8 del estilo).
 - Ejemplo de guía armada con este estilo: `guias/pdf/construir.py`, que genera `guias/100-codigos-fotos-fedex-ia.pdf` a partir de `guias/100-codigos-fotos.md`.
+
+## Pendientes
+
+### Guía de 100 códigos: cuando Federico suba las imágenes
+
+Hay que regenerar el PDF con las fotos de antes y después en la portada y en los pasos. En esa versión, cambiá el mensaje sobre los códigos: el código se puede usar escrito solo, pero si no da buenos resultados, siempre conviene pegar el prompt completo. Hoy la guía dice que el código es solo un nombre y que la IA no lo reconoce; reemplazalo por esa idea en la página "Cómo se usan" (paso 2 y la nota) y donde se repita.
