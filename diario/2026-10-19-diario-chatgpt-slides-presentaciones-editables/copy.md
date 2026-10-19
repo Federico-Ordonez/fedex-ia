@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # ChatGPT Slides: presentaciones editables dentro de ChatGPT (16 de octubre de 2026)
 
