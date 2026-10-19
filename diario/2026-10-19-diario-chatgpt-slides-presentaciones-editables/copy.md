@@ -1,4 +1,4 @@
-Estado: programado en Buffer para el lunes 19 de octubre, publicación inmediata a pedido de Fede (Buenos Aires)
+Estado: programado en Buffer para el lunes 19 de octubre 10:57 (Buenos Aires), a pedido de Fede para publicar ahora
 
 # ChatGPT Slides: presentaciones editables dentro de ChatGPT (16 de octubre de 2026)
 
