@@ -1,0 +1,134 @@
+/* Sistema editorial Fedex.ia: Papel / Tinta / Señal, Fraunces + Instrument Sans */
+@font-face { font-family: "Fraunces"; font-weight: 400; font-style: normal; src: url("fuentes/fraunces-latin-400-normal.woff2"); }
+@font-face { font-family: "Fraunces"; font-weight: 400; font-style: italic; src: url("fuentes/fraunces-latin-400-italic.woff2"); }
+@font-face { font-family: "Fraunces"; font-weight: 600; font-style: normal; src: url("fuentes/fraunces-latin-600-normal.woff2"); }
+@font-face { font-family: "Fraunces"; font-weight: 900; font-style: normal; src: url("fuentes/fraunces-latin-900-normal.woff2"); }
+@font-face { font-family: "Fraunces"; font-weight: 900; font-style: italic; src: url("fuentes/fraunces-latin-900-italic.woff2"); }
+@font-face { font-family: "Instrument Sans"; font-weight: 400; src: url("fuentes/instrument-sans-latin-400-normal.woff2"); }
+@font-face { font-family: "Instrument Sans"; font-weight: 600; src: url("fuentes/instrument-sans-latin-600-normal.woff2"); }
+
+:root {
+  --papel: #F1ECE2;
+  --tinta: #141312;
+  --senal: #E8431B;
+  --piedra: #8C8579;
+  --linea: #D8D0C2;
+  --margen: 16mm;
+}
+
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: var(--papel); }
+body {
+  font-family: "Instrument Sans", sans-serif;
+  color: var(--tinta);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.pagina {
+  position: relative;
+  width: 210mm;
+  height: 297mm;
+  padding: var(--margen);
+  display: flex;
+  flex-direction: column;
+  background: var(--papel);
+  page-break-after: always;
+  overflow: hidden;
+}
+.pagina:last-child { page-break-after: auto; }
+
+/* grano de papel */
+.pagina::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='g'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.08  0 0 0 0 0.07  0 0 0 0 0.07  0 0 0 0.5 0'/></filter><rect width='100%' height='100%' filter='url(%23g)'/></svg>");
+  opacity: 0.18;
+  pointer-events: none;
+}
+.pagina > * { position: relative; }
+
+.riel, .pie {
+  display: flex;
+  justify-content: space-between;
+  font-size: 8pt;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--piedra);
+}
+.punto { display: inline-block; width: 2.2mm; height: 2.2mm; background: var(--senal); margin-right: 2.5mm; vertical-align: 0.2mm; }
+.pie { border-top: 2px solid var(--tinta); padding-top: 3mm; letter-spacing: 0.1em; }
+.cuerpo { flex: 1; display: flex; flex-direction: column; padding: 14mm 0 8mm; }
+
+.kicker {
+  font-size: 8.5pt;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--piedra);
+  margin-bottom: 5mm;
+}
+h1 {
+  font-family: "Fraunces", serif;
+  font-weight: 900;
+  font-size: 58pt;
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+}
+h1 em, h2 em { font-weight: 400; font-style: italic; color: var(--senal); }
+h2 {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 32pt;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  margin-bottom: 4mm;
+}
+.piedra { color: var(--piedra); }
+.bajada { font-size: 11pt; color: var(--piedra); margin-bottom: 6mm; }
+
+/* portada */
+.portada h1 { font-size: 66pt; line-height: 1; margin-top: 30mm; max-width: 165mm; }
+.promesa { margin-top: auto; border-top: 1px solid var(--linea); padding-top: 5mm; font-size: 13pt; line-height: 1.35; max-width: 120mm; }
+.promesa .piedra { font-size: 9pt; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 600; margin-top: 4mm; }
+
+/* cómo se usan */
+.pasos { list-style: none; counter-reset: paso; margin-top: 6mm; }
+.pasos li { counter-increment: paso; display: grid; grid-template-columns: 14mm 1fr; grid-template-rows: auto auto; padding: 5mm 0; border-top: 1px solid var(--linea); }
+.pasos li::before { content: counter(paso); grid-row: span 2; font-family: "Fraunces", serif; font-style: italic; font-size: 22pt; color: var(--piedra); line-height: 1; }
+.pasos b { font-weight: 600; font-size: 13pt; margin-bottom: 1.5mm; }
+.pasos span { font-size: 10.5pt; line-height: 1.4; }
+.nota { margin-top: auto; border-top: 2px solid var(--tinta); padding-top: 5mm; }
+.nota p { font-size: 10pt; line-height: 1.4; margin-bottom: 2mm; max-width: 150mm; }
+
+.hueco { color: var(--piedra); font-weight: 600; }
+
+/* índice */
+.indice { list-style: none; margin-top: 8mm; }
+.indice li { display: grid; grid-template-columns: 16mm 45mm 1fr 18mm; align-items: baseline; padding: 6mm 0; border-top: 1px solid var(--linea); }
+.indice .num { font-family: "Fraunces", serif; font-style: italic; font-size: 20pt; color: var(--piedra); }
+.indice b { font-family: "Fraunces", serif; font-weight: 600; font-size: 18pt; }
+.indice .piedra { font-size: 10pt; }
+.indice .rango { text-align: right; font-size: 9pt; font-weight: 600; letter-spacing: 0.1em; color: var(--piedra); }
+
+/* códigos */
+.lista { display: flex; flex-direction: column; }
+.codigo { display: grid; grid-template-columns: 14mm 1fr; padding: 5mm 0; border-top: 1px solid var(--linea); break-inside: avoid; }
+.codigo .n { font-family: "Fraunces", serif; font-style: italic; font-size: 15pt; color: var(--piedra); line-height: 1.1; }
+.titulo { display: flex; align-items: baseline; gap: 4mm; margin-bottom: 2mm; }
+.cod { font-family: "Fraunces", serif; font-weight: 600; font-size: 17pt; letter-spacing: -0.01em; }
+.que { font-size: 8.5pt; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--piedra); }
+.prompt { font-size: 11pt; line-height: 1.42; max-width: 160mm; }
+
+/* cierre */
+.oscura { background: var(--tinta); color: var(--papel); }
+.oscura::before { opacity: 0.1; filter: invert(1); }
+.oscura .pie { border-color: var(--papel); }
+.cta { margin-top: 30mm; font-size: 62pt; max-width: 160mm; }
+.acciones { margin-top: auto; }
+.acciones div { display: grid; grid-template-columns: 70mm 1fr; padding: 5mm 0; border-top: 1px solid #3a3734; }
+.acciones b { font-weight: 600; font-size: 12pt; }
+.acciones span { font-size: 10.5pt; color: var(--piedra); line-height: 1.4; }
