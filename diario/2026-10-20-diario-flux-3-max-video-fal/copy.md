@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # FLUX 3 Max (fal) · 2026-10-20
 
