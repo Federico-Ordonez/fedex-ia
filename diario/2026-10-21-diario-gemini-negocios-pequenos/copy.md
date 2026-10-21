@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini para pequeños negocios (Google, 20 de octubre de 2026)
 
