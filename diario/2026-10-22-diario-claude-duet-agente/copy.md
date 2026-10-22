@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Claude Duet (Anthropic, 21 de octubre de 2026)
 
