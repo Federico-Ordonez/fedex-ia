@@ -1,0 +1,9 @@
+{
+ "slides": [
+  {"tipo":"portada","fondo":"blanco","eyebrow":"Anthropic · 21 de octubre","titular":"Claude ahora te avisa antes de que preguntes.","bajada":"Anthropic lanzó Claude Duet, un agente proactivo. Qué hace y quién puede usarlo.","pastillas":["Claude Duet","Desliza →"],"objeto":"portada"},
+  {"tipo":"noticia","fondo":"oscuro","eyebrow":"Anthropic · 21 de octubre","titular":"Duet revisa tus apps cada pocas horas.","cuerpo":"Según Anthropic, te manda un resumen cada mañana y te avisa si algo necesita atención. Antes de enviar mensajes o pagar, espera tu aprobación.","objeto":"reloj"},
+  {"tipo":"noticia","fondo":"gris","eyebrow":"Anthropic · 21 de octubre","titular":"Por ahora, solo en Estados Unidos.","cuerpo":"Es una vista previa con lista de espera para suscriptores de Pro y Max de EE. UU. No está en Team ni Enterprise, y usa los límites de tu plan.","objeto":"mapa"},
+  {"tipo":"noticia","fondo":"oscuro","eyebrow":"Anthropic · 21 de octubre","titular":"Puede encargarse de tareas del negocio.","cuerpo":"Se conecta a Gmail, Slack, QuickBooks, Stripe o Shopify, entre otras. Anthropic admite que puede interpretar mal un hilo o errar en qué es urgente.","objeto":"tareas"},
+  {"tipo":"cierre","fondo":"blanco","titular":"¿Qué tarea le dejarías a Duet primero?","cuerpo":"Guarda el post para revisar cuándo abren la lista.","pastillas":["Seguí a @fedex.ia","Guardar"],"fuente":"claude.com","objeto":"cierre"}
+ ]
+}
