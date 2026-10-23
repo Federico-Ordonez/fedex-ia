@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # 1Password lanza 1Password for Agents para que un agente inicie sesión sin ver tu contraseña (22 de octubre de 2026)
 
