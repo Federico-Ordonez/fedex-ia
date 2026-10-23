@@ -4,41 +4,41 @@
    "tipo": "portada",
    "fondo": "blanco",
    "eyebrow": "1Password · 22 de octubre",
-   "titular": "Tu agente inicia sesión sin conocer tu clave.",
-   "bajada": "Lo que lanzó 1Password y lo que no aclaró.",
+   "titular": "Agentes de IA inician sesión sin tu clave.",
+   "bajada": "1Password lanzó 1Password for Agents el 22 de octubre.",
    "pastillas": [
     "1Password for Agents",
     "Desliza →"
    ],
    "objeto": "portada",
-   "alt": "Ilustración 3D de una caja fuerte plateada con un disco azul al lado de una esfera perla. Texto: Tu agente inicia sesión sin conocer tu clave."
+   "alt": "Ilustración 3D de una caja fuerte plateada con un disco azul al lado de una esfera perla. Texto: Agentes de IA inician sesión sin tu clave."
   },
   {
    "tipo": "noticia",
    "fondo": "oscuro",
    "eyebrow": "1Password · 22 de octubre",
-   "titular": "Tú apruebas cada ingreso.",
-   "cuerpo": "Según 1Password, el agente se presenta con una clave digital y tú ves qué cuenta necesita y para qué. Si aceptas, 1Password completa el formulario sin pasarle la contraseña.",
+   "titular": "El agente pide y tú apruebas.",
+   "cuerpo": "Según 1Password, el agente se identifica con una clave digital y tú apruebas desde tu dispositivo. Después, 1Password completa el formulario y el agente no recibe la contraseña.",
    "objeto": "aprueba",
-   "alt": "Ilustración 3D de dos bloques perla enfrentados con un cubo azul en el medio. Texto: Tú apruebas cada ingreso."
+   "alt": "Ilustración 3D de dos bloques perla enfrentados con un cubo azul en el medio. Texto: El agente pide y tú apruebas."
   },
   {
    "tipo": "noticia",
    "fondo": "gris",
    "eyebrow": "1Password · 22 de octubre",
-   "titular": "Seis agentes, sin precio ni países.",
-   "cuerpo": "Funciona con Muse, Claude Duet, ChatGPT Work, dots, Grok Bot y Town, y vendrán más. El anuncio no especifica en qué países está disponible, ni planes, precio o plataformas.",
+   "titular": "Seis agentes son compatibles.",
+   "cuerpo": "Muse, Claude Duet, ChatGPT Work, dots, Grok Bot y Town. Aún no hay un precio oficial publicado.",
    "objeto": "seis",
-   "alt": "Ilustración 3D de seis cilindros en dos filas, cinco grises y uno azul. Texto: Seis agentes, sin precio ni países."
+   "alt": "Ilustración 3D de seis cilindros en dos filas, cinco grises y uno azul. Texto: Seis agentes son compatibles."
   },
   {
    "tipo": "noticia",
    "fondo": "oscuro",
    "eyebrow": "1Password · 22 de octubre",
-   "titular": "Delegar sin dar tu contraseña.",
-   "cuerpo": "Si un agente te ayuda con tus redes o tus facturas, no hace falta pegarle la clave. Antes de aceptar, mira qué cuenta pide.",
+   "titular": "Delegar tareas sin pegar tu clave.",
+   "cuerpo": "Si un agente te ayuda con tus redes o tus facturas, con este sistema no necesitas darle la contraseña. Antes de aprobar, revisa qué cuenta pide.",
    "objeto": "escudo",
-   "alt": "Ilustración 3D de una esfera perla dentro de un marco azul sobre una base. Texto: Delegar sin dar tu contraseña."
+   "alt": "Ilustración 3D de una esfera perla dentro de un marco azul sobre una base. Texto: Delegar tareas sin pegar tu clave."
   },
   {
    "tipo": "cierre",

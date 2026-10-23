@@ -12,33 +12,33 @@ Estado: pendiente de aprobación
 - Prensa: https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
 
 ## Hooks
-1. Tu agente inicia sesión sin conocer tu clave.
-2. Tú apruebas cada ingreso.
+1. Agentes de IA inician sesión sin tu clave.
+2. El agente pide y tú apruebas.
 
 ## Slides
-1. Portada (fondo blanco). Eyebrow «1Password · 22 de octubre». Titular: «Tu agente inicia sesión sin conocer tu clave.» Bajada: «Lo que lanzó 1Password y lo que no aclaró.» Pastillas: «1Password for Agents» y «Desliza →».
+1. Portada (fondo blanco). Eyebrow «1Password · 22 de octubre». Titular: «Agentes de IA inician sesión sin tu clave.» Bajada: «1Password lanzó 1Password for Agents el 22 de octubre.» Pastillas: «1Password for Agents» y «Desliza →».
    - Objeto 3D: caja fuerte plateada con un disco azul al frente y una esfera perla al lado.
-   - Alt: Ilustración 3D de una caja fuerte plateada con un disco azul al lado de una esfera perla. Texto: Tu agente inicia sesión sin conocer tu clave.
-2. Qué pasó (fondo oscuro). Titular: «Tú apruebas cada ingreso.» Cuerpo: «Según 1Password, el agente se presenta con una clave digital y tú ves qué cuenta necesita y para qué. Si aceptas, 1Password completa el formulario sin pasarle la contraseña.»
+   - Alt: Ilustración 3D de una caja fuerte plateada con un disco azul al lado de una esfera perla. Texto: Agentes de IA inician sesión sin tu clave.
+2. Qué pasó (fondo oscuro). Titular: «El agente pide y tú apruebas.» Cuerpo: «Según 1Password, el agente se identifica con una clave digital y tú apruebas desde tu dispositivo. Después, 1Password completa el formulario y el agente no recibe la contraseña.»
    - Objeto 3D: dos bloques perla enfrentados con un cubo azul en el medio.
-   - Alt: Ilustración 3D de dos bloques perla enfrentados con un cubo azul en el medio. Texto: Tú apruebas cada ingreso.
-3. Disponibilidad (fondo gris). Titular: «Seis agentes, sin precio ni países.» Cuerpo: «Funciona con Muse, Claude Duet, ChatGPT Work, dots, Grok Bot y Town, y vendrán más. El anuncio no especifica en qué países está disponible, ni planes, precio o plataformas.»
+   - Alt: Ilustración 3D de dos bloques perla enfrentados con un cubo azul en el medio. Texto: El agente pide y tú apruebas.
+3. Disponibilidad (fondo gris). Titular: «Seis agentes son compatibles.» Cuerpo: «Muse, Claude Duet, ChatGPT Work, dots, Grok Bot y Town. Aún no hay un precio oficial publicado.»
    - Objeto 3D: seis cilindros en dos filas, cinco grafito y uno azul.
-   - Alt: Ilustración 3D de seis cilindros en dos filas, cinco grises y uno azul. Texto: Seis agentes, sin precio ni países.
-4. Qué significa (fondo oscuro). Titular: «Delegar sin dar tu contraseña.» Cuerpo: «Si un agente te ayuda con tus redes o tus facturas, no hace falta pegarle la clave. Antes de aceptar, mira qué cuenta pide.»
+   - Alt: Ilustración 3D de seis cilindros en dos filas, cinco grises y uno azul. Texto: Seis agentes son compatibles.
+4. Qué significa (fondo oscuro). Titular: «Delegar tareas sin pegar tu clave.» Cuerpo: «Si un agente te ayuda con tus redes o tus facturas, con este sistema no necesitas darle la contraseña. Antes de aprobar, revisa qué cuenta pide.»
    - Objeto 3D: esfera perla dentro de un marco azul sobre una base blanca.
-   - Alt: Ilustración 3D de una esfera perla dentro de un marco azul sobre una base. Texto: Delegar sin dar tu contraseña.
+   - Alt: Ilustración 3D de una esfera perla dentro de un marco azul sobre una base. Texto: Delegar tareas sin pegar tu clave.
 5. Cierre (fondo blanco). Titular: «¿A qué cuenta dejarías entrar a un agente?» Cuerpo: «Guarda el post para tenerlo cuando pruebes uno.» Pastillas: «Seguí a @fedex.ia» y «Guardar». Fuente: 1password.com.
    - Objeto 3D: marcador azul y tarjeta perla (objeto «cierre» del kit).
    - Alt: Ilustración 3D de un marcador azul junto a una tarjeta perla. Texto: ¿A qué cuenta dejarías entrar a un agente?
 
-## Caption para copiar (116 palabras + 5 hashtags)
+## Caption para copiar (122 palabras + 5 hashtags)
 ```text
-1Password presentó el 22 de octubre 1Password for Agents, pensado para que un agente de IA inicie sesión sin conocer tus claves. Según la empresa, el agente se presenta con una clave digital y tú ves qué cuenta necesita y para qué. Si aceptas desde tu dispositivo, 1Password completa el formulario y la contraseña no pasa por el agente.
+1Password lanzó el 22 de octubre 1Password for Agents, un sistema para que los agentes de IA inicien sesión en tus cuentas sin conocer tus contraseñas. Según la empresa, el agente se identifica con una clave digital y tú apruebas el acceso desde tu dispositivo. Después, 1Password completa el formulario y la contraseña no pasa por el agente.
 
-Funciona con Muse, Claude Duet, ChatGPT Work, dots, Grok Bot y Town, y la empresa promete más. No especifica en qué países está disponible, ni precio, planes o plataformas.
+Son compatibles Muse, Claude Duet, ChatGPT Work, dots, Grok Bot y Town, y la empresa dice que vendrán más. Aún no hay un precio oficial publicado, y 1Password no especifica en qué países está disponible.
 
-Si ya delegas tareas en un agente, esto cambia cómo le das acceso. Guarda el post y sigue a @fedex.ia para la noticia de IA de cada día.
+Si delegas tareas en un agente, revisa qué cuenta te pide antes de aprobar. Guarda el post y sigue a @fedex.ia para la noticia de IA de cada día.
 
 #InteligenciaArtificial #NoticiasIA #IAenEspañol #1Password #AgentesIA
 ```
@@ -58,7 +58,7 @@ Fuentes: 1password.com/press/2026/october/1password-for-agents-trust-layer-perso
 |---|---|
 | 01 | Anuncio oficial de 1Password (1password.com) |
 | 02 | Anuncio oficial de 1Password |
-| 03 | Anuncio oficial de 1Password (agentes nombrados y datos no especificados) |
+| 03 | Anuncio oficial de 1Password (agentes nombrados). El anuncio no menciona precio; la slide dice «Aún no hay un precio oficial publicado» |
 | 04 | Anuncio oficial de 1Password; el ejemplo y el consejo son de @fedex.ia |
 | 05 | 1password.com (línea de fuente solo en el cierre) |
 
