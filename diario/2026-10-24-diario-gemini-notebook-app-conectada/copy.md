@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini Notebook como app conectada (Google, 23 de octubre de 2026)
 
