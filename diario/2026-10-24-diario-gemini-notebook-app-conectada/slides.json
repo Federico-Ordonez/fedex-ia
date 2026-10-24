@@ -1,0 +1,61 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "Google · 23 de octubre",
+   "titular": "Gemini ahora maneja tus cuadernos.",
+   "bajada": "Google sumó Gemini Notebook como app conectada.",
+   "pastillas": [
+    "Gemini Notebook",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de un cuaderno perla con una esfera azul al lado. Texto: Gemini ahora maneja tus cuadernos."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google · 23 de octubre",
+   "titular": "Escribe @Gemini Notebook en el chat.",
+   "cuerpo": "Según Google, puedes crear cuadernos, agregar fuentes y guardar notas sin salir de la conversación. También puedes hacer preguntas sobre lo que ya guardaste.",
+   "fuente": "workspaceupdates.googleblog.com",
+   "objeto": "pila",
+   "alt": "Ilustración 3D de una pila de láminas perla con la de arriba en azul. Texto: Escribe @Gemini Notebook en el chat."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "Google · 23 de octubre",
+   "titular": "Viene activada, salvo en el EEE.",
+   "cuerpo": "Según Google, funciona con cuentas personales y de Workspace. En el Espacio Económico Europeo viene apagada y se activa a mano en Ajustes.",
+   "fuente": "workspaceupdates.googleblog.com",
+   "objeto": "interruptor",
+   "alt": "Ilustración 3D de un interruptor perla con una esfera azul a un lado. Texto: Viene activada, salvo en el EEE."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google · 23 de octubre",
+   "titular": "Pides desde el chat, sin abrir otra app.",
+   "cuerpo": "Según la ayuda de Google, por ahora funciona en la web y el móvil, y se despliega de a poco. No puede agregar chats a un cuaderno.",
+   "fuente": "support.google.com",
+   "objeto": "puente",
+   "alt": "Ilustración 3D de dos cubos perla unidos por una barra azul. Texto: Pides desde el chat, sin abrir otra app.",
+   "zoom": 0.95
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Qué guardarías primero en un cuaderno?",
+   "cuerpo": "Guarda el post para probarlo cuando te llegue.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "workspaceupdates.googleblog.com",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul junto a una tarjeta perla. Texto: ¿Qué guardarías primero en un cuaderno?"
+  }
+ ]
+}
