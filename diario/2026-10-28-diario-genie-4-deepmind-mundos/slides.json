@@ -1,0 +1,57 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "Google DeepMind · 27 de octubre",
+   "titular": "Escribes una escena y la recorres.",
+   "bajada": "Google DeepMind presentó Genie 4. Qué hace y quién puede probarlo.",
+   "pastillas": [
+    "Genie 4",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de una esfera grafito sobre una base clara dentro de un marco azul. Texto: Escribes una escena y la recorres."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google DeepMind · 27 de octubre",
+   "titular": "Genie 4 crea mundos con audio.",
+   "cuerpo": "Según Google DeepMind, puedes cambiar el clima, mover la cámara o sumar personas con texto mientras corre. También genera música, sonido ambiente y diálogos.",
+   "objeto": "audio",
+   "alt": "Ilustración 3D de una esfera clara rodeada de anillos, uno azul, que sugieren ondas de sonido. Texto: Genie 4 crea mundos con audio."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "Google DeepMind · 27 de octubre",
+   "titular": "Todavía no lo puede usar cualquiera.",
+   "cuerpo": "Es una vista previa de investigación para evaluadores de confianza. Google DeepMind dice que llegará pronto a suscriptores de AI Ultra y no especifica en qué países.",
+   "objeto": "acceso",
+   "alt": "Ilustración 3D de una fila de cubos grises con uno azul separado al frente. Texto: Todavía no lo puede usar cualquiera."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google DeepMind · 27 de octubre",
+   "titular": "Previsualizar una escena sin filmarla.",
+   "cuerpo": "Los evaluadores lo usan para previsualizar escenas y prototipar juegos. Google DeepMind avisa que los detalles y objetos pueden cambiar en sesiones largas.",
+   "objeto": "previa",
+   "alt": "Ilustración 3D de un marco azul que encierra una esfera clara y un cubo plateado. Texto: Previsualizar una escena sin filmarla."
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Qué escena probarías primero?",
+   "cuerpo": "Guarda el post para cuando llegue a Ultra.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "deepmind.google",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul junto a una tarjeta perla. Texto: ¿Qué escena probarías primero?"
+  }
+ ]
+}
