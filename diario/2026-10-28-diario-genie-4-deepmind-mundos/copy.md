@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Genie 4 de Google DeepMind (28 de octubre de 2026)
 
