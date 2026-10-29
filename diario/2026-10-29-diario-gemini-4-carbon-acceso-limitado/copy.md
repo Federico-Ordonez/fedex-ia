@@ -10,11 +10,11 @@ Estado: pendiente de aprobación
 - Prensa: https://www.constellationr.com/insights/news/google-rolls-out-gemini-4-carbon
 
 ## Hooks
-1. Google tiene un modelo que no puedes usar. (usado)
-2. El modelo más fuerte de Google no es para ti todavía.
+1. Gemini 4 Carbon existe, pero no lo tienes. (usado)
+2. Google tiene un modelo que no puedes usar. (anterior, nota 71 en Dexter)
 
 ## Slides
-1. Portada (blanco). «Google tiene un modelo que no puedes usar.» Bajada: «Google presentó Gemini 4 Carbon. Quién lo usa hoy y qué significa para ti.» Pastillas: Gemini 4 Carbon / Desliza →. Objeto 3D: placa perla dentro de un marco azul y un cilindro plateado. Alt: Ilustración 3D de una placa perla dentro de un marco azul, al lado de un cilindro plateado. Texto: Google tiene un modelo que no puedes usar.
+1. Portada (blanco). «Gemini 4 Carbon existe, pero no lo tienes.» Bajada: «Google lo presentó el 28 de octubre. Quién lo usa hoy y qué significa para ti.» Pastillas: Gemini 4 Carbon / Desliza →. Objeto 3D: placa perla dentro de un marco azul y un cilindro plateado. Alt: Ilustración 3D de una placa perla dentro de un marco azul, al lado de un cilindro plateado. Texto: Gemini 4 Carbon ya existe, pero no lo tienes.
 2. (oscuro) «Google presenta Gemini 4 Carbon.» Cuerpo: «Según Google, es su modelo más fuerte en ciberseguridad y en tareas largas de varios pasos, como arreglar errores en código grande. Llega dos semanas después de Gemini 4 Argon.» Objeto: tres cajas en escalera, la más alta azul. Alt: Ilustración 3D de tres cajas perla apiladas en escalera, la más alta en azul. Texto: Google presenta Gemini 4 Carbon.
 3. (gris) «Hoy solo lo usan equipos de seguridad.» Cuerpo: «Google lo abrió a un grupo de defensores de ciberseguridad y sumará socios de a poco. Para el resto dice «lo antes posible», sin fecha. No especifica en qué países está disponible.» Objeto: fila de esferas plateadas con una azul al frente. Alt: Ilustración 3D de una fila de esferas plateadas con una sola esfera azul al frente. Texto: Hoy solo lo usan equipos de seguridad.
 4. (oscuro) «Para ti, por ahora, es una señal.» Cuerpo: «Todavía no está en la app de Gemini ni en la API. Google anunció un precio inicial de 2 dólares por millón de tokens de entrada y 10 de salida; después sube a 4 y 20.» Objeto: dos pilas de discos, la última de cada pila azul. Alt: Ilustración 3D de dos pilas de discos plateados, una baja y otra alta con el último disco azul. Texto: Para ti, por ahora, es una señal.
