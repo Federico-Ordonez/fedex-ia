@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini 4 Carbon, de Google (29 de octubre de 2026)
 
