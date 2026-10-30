@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Nvidia · Nemotron 3.5 Transcribe (30 de octubre de 2026)
 
