@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Google y Microsoft: señal común para excluir tu web del entrenamiento de IA
 
