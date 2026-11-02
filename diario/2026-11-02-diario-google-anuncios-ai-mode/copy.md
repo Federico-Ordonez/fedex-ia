@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Google · Anuncios en AI Mode llegan a 10 países
 
