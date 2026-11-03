@@ -1,0 +1,57 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "Apple · 31 de octubre",
+   "titular": "Apple Intelligence llega a China.",
+   "bajada": "Apple confirmó fechas y funciones. Qué incluye y qué queda afuera.",
+   "pastillas": [
+    "Apple Intelligence",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de una esfera perla dentro de un marco azul, junto a un cubo plateado. Texto: Apple Intelligence llega a China."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Apple · 31 de octubre",
+   "titular": "Apple confirma su IA en China.",
+   "cuerpo": "Según Apple, la primera tanda trae Herramientas de escritura, Visual Intelligence y Traducción en vivo. Qwen, de Alibaba, apoya a Siri y a otras funciones.",
+   "objeto": "funciones",
+   "alt": "Ilustración 3D de cuatro cubos perla en fila, el tercero en azul. Texto: Apple confirma su IA en China."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "Apple · 31 de octubre",
+   "titular": "Beta el 4 de noviembre.",
+   "cuerpo": "Según Apple, sale en diciembre. Pide iPhone 16 o posterior, 15 Pro, Air o Duo, con Siri e idioma en inglés y chino simplificado. Sin Siri AI ni lo del WWDC 2026.",
+   "objeto": "calendario",
+   "alt": "Ilustración 3D de dos pilas de discos plateados de distinta altura, la más alta con un disco azul arriba. Texto: Beta el 4 de noviembre."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Apple · 31 de octubre",
+   "titular": "Apple adapta su IA según el país.",
+   "cuerpo": "En China suma a Qwen, de Alibaba, en Siri, escritura y Visual Intelligence. Si vendes a ese mercado, sus usuarios podrán usar estas funciones desde diciembre.",
+   "objeto": "pais",
+   "alt": "Ilustración 3D de un cilindro blanco sobre una base perla, con un cubo azul al lado. Texto: Apple adapta su IA según el país."
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Qué función de IA te falta en el iPhone?",
+   "cuerpo": "Guarda el post para seguir cómo llega a cada país.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "apple.com.cn",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul junto a una tarjeta perla. Texto: ¿Qué función de IA te falta en el iPhone?"
+  }
+ ]
+}
