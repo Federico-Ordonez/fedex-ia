@@ -1,0 +1,56 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "Google · 29 de octubre",
+   "titular": "Gemini edita tus archivos en el chat.",
+   "pastillas": [
+    "Gemini",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de una hoja gris clara de pie con una esfera azul al lado. Texto: Gemini edita tus archivos en el chat."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google · 29 de octubre",
+   "titular": "Crea y edita archivos sin salir del chat.",
+   "cuerpo": "Según Google, Gemini genera PDF, Docs, Sheets, presentaciones, Markdown, TXT y código. Los abres a pantalla completa y corriges el texto tú mismo.",
+   "objeto": "crea",
+   "alt": "Ilustración 3D de tres hojas apiladas, la de arriba en azul. Texto: Crea y edita archivos sin salir del chat."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "Google · 29 de octubre",
+   "titular": "Solo el PDF se edita desde el móvil.",
+   "cuerpo": "Según Google, Docs, Sheets, presentaciones, Markdown, TXT y código se editan solo en la web. Lo tienen todos los usuarios; no especifica países ni planes.",
+   "objeto": "web",
+   "alt": "Ilustración 3D de una pantalla ancha gris y una pieza vertical pequeña en azul. Texto: Solo el PDF se edita desde el móvil."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google · 29 de octubre",
+   "titular": "Resalta un texto y pide el cambio.",
+   "cuerpo": "Puedes marcar una parte y pedirle a Gemini que cambie el texto o las imágenes. Para informes o propuestas, los retocas en el mismo chat.",
+   "objeto": "resalta",
+   "alt": "Ilustración 3D de una hoja clara con una barra azul que resalta una parte. Texto: Resalta un texto y pide el cambio."
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Qué archivo le pedirías primero?",
+   "cuerpo": "Guarda el post para probarlo con tu próximo informe.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "blog.google",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul y una tarjeta clara. Texto: ¿Qué archivo le pedirías primero?"
+  }
+ ]
+}
