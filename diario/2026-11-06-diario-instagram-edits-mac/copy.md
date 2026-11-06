@@ -1,4 +1,4 @@
-Estado: programado en Buffer para el lunes 9 de noviembre 20:43 (Buenos Aires)
+Estado: publicado desde Buffer el viernes 6 de noviembre 20:01 (Buenos Aires)
 
 # Instagram Edits para Mac se conecta con Claude (Instagram, 5 de noviembre de 2026)
 
