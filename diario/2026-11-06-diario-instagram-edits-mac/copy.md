@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Instagram Edits para Mac se conecta con Claude (Instagram, 5 de noviembre de 2026)
 
