@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # ChatGPT Images 2.6: GIFs animados (OpenAI, 4 de noviembre de 2026)
 
