@@ -5,7 +5,7 @@ Estado: pendiente de aprobación
 ## Noticia base
 - Hecho: Instagram lanzó Edits para Mac el 5 de noviembre de 2026 (ayer; hoy es viernes 6).
 - Qué es: editor de video de escritorio, gratis. Timeline multipista, keyframes, color, LUTs y fuentes propias, subtítulos automáticos, exportación 4K sin marca de agua, publicación directa a Instagram.
-- Disponibilidad (según Instagram): solo macOS, Mac con Apple silicon (M1 o posterior), cuenta de Instagram. Sin Windows. Sincronizar un proyecto entre escritorio y celular está en desarrollo. No nombra países.
+- Disponibilidad (según Instagram): solo macOS, Mac con Apple silicon (M1 o posterior), cuenta de Instagram. Sin Windows. Sincronizar un proyecto entre escritorio y celular está en desarrollo. La fuente no nombra países; por pedido de Fede no se menciona el tema en el post.
 - Claude: el anuncio oficial dice que los agentes de IA se conectan al editor por MCP. Claude Code, Codex y Muse aparecen en Ajustes > Automation > «Connect an AI client» de la app (captura de pantalla de Fede, app instalada el 6 de noviembre).
 - Oficial: https://edits.instagram.com/blog/edits-desktop-video-editor (página del producto: https://edits.instagram.com/desktop/)
 - Prensa: https://9to5mac.com/2026/11/05/instagram-launches-edits-for-mac-with-multi-track-video-editing-and-4k-exports/
@@ -17,15 +17,15 @@ Estado: pendiente de aprobación
 ## Slides
 1. Portada (blanco). Eyebrow: Instagram · 5 de noviembre. Titular: Edits para Mac se conecta con Claude. Bajada: Instagram lanzó su editor de video para Mac. Qué trae y cómo conectarlo. Pastillas: Edits para Mac, Desliza →. 3D: pantalla grafito sobre base perla con esfera azul. Alt: Ilustración 3D de una pantalla grafito sobre una base perla con una esfera azul delante. Texto: Edits para Mac se conecta con Claude.
 2. Qué pasó (oscuro). Titular: Edits para Mac es un editor gratis. Cuerpo: Según Instagram, trae timeline multipista, keyframes y exportación en 4K sin marca de agua. Publicas en Instagram sin salir de la app. 3D: tres barras apiladas, la del medio azul. Alt: Ilustración 3D de tres barras apiladas de distinto largo, la del medio azul. Texto: Edits para Mac es un editor gratis.
-3. Disponibilidad (gris). Titular: Solo para Mac con chip Apple. Cuerpo: Según Instagram, pide un Mac con Apple silicon (M1 o posterior) y una cuenta de Instagram. No especifica en qué países está disponible. 3D: chip plateado con cuadrado azul. Alt: Ilustración 3D de un chip plateado con un cuadrado azul en el centro. Texto: Solo para Mac con chip Apple.
+3. Disponibilidad (gris). Titular: Solo para Mac con chip Apple. Cuerpo: Según Instagram, pide un Mac con Apple silicon (M1 o posterior) y una cuenta de Instagram. No funciona en Windows. 3D: chip plateado con cuadrado azul. Alt: Ilustración 3D de un chip plateado con un cuadrado azul en el centro. Texto: Solo para Mac con chip Apple.
 4. Qué significa (oscuro). Titular: Puedes conectar Claude Code a Edits. Cuerpo: Según Instagram, los agentes de IA se conectan por MCP. En la sección Automation de la app hay opciones para Claude Code, Codex y Muse. 3D: dos cubos unidos por una barra azul. Alt: Ilustración 3D de dos cubos unidos por una barra azul. Texto: Puedes conectar Claude Code a Edits.
 5. Cierre (blanco). Titular: ¿Qué editarías primero con Claude? Cuerpo: Guarda el post para probarlo en tu Mac. Pastillas: Seguí a @fedex.ia, Guardar. Fuente: edits.instagram.com ›. 3D: objeto cierre. Alt: Ilustración 3D de un marcador azul sobre una tarjeta perla. Texto: ¿Qué editarías primero con Claude?
 
-## Caption para copiar (139 palabras + 5 hashtags)
+## Caption para copiar (130 palabras + 5 hashtags)
 ```text
 Instagram lanzó el 5 de noviembre Edits para Mac, su editor de video gratis. Según Instagram, trae timeline multipista, keyframes, subtítulos automáticos, exportación en 4K sin marca de agua y publicación directa a Instagram.
 
-Pide un Mac con chip Apple silicon (M1 o posterior) y una cuenta de Instagram. No funciona en Windows. Todavía no se puede seguir un mismo proyecto entre Mac y celular: Instagram dice que trabaja en eso. El anuncio no especifica en qué países está disponible.
+Pide un Mac con chip Apple silicon (M1 o posterior) y una cuenta de Instagram. No funciona en Windows. Todavía no se puede seguir un mismo proyecto entre Mac y celular: Instagram dice que trabaja en eso.
 
 Instagram dice que los agentes de IA se conectan por MCP. En la sección Automation de la app aparecen opciones para Claude Code, Codex y Muse. Ojo: quien tenga el token de acceso puede editar tus proyectos mientras el servidor esté activo.
 
@@ -59,7 +59,7 @@ Todas las slides usan la misma fuente (edits.instagram.com, anuncio oficial). La
 | Claude Code, Codex y Muse en «Connect an AI client» | Captura de la app instalada, enviada por Fede |
 | Token privado: quien lo tenga puede editar proyectos con el servidor activo | Texto de la propia app (captura) |
 | Sync Mac-celular en desarrollo | Post oficial |
-| Países | Ninguna fuente los nombra: «No especifica en qué países está disponible» |
+| Países | Ninguna fuente los nombra. Por pedido de Fede (la app ya funciona en Argentina) se quitó la línea «No especifica en qué países»; no se afirma disponibilidad global |
 
 Dejé afuera:
 - Que Edits tenga 50 millones de usuarios mensuales: lo cita una nota secundaria sin verlo en el anuncio.
