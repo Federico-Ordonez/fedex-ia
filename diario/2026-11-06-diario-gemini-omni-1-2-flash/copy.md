@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini Omni 1.2 Flash: videos de 15 segundos (Google, 5 de noviembre de 2026)
 
