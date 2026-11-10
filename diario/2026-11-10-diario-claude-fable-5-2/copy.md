@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Claude Fable 5.2 y Mythos 5.2: menos bloqueos y menor precio (Anthropic, 9 de noviembre de 2026)
 
