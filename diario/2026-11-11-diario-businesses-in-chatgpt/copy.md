@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Businesses in ChatGPT: perfiles para negocios (OpenAI, 10 de noviembre de 2026)
 
