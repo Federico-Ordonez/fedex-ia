@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini Live llega a Apple CarPlay (Google, 11 de noviembre de 2026)
 
@@ -20,7 +20,7 @@ Horario de Buffer propuesto: viernes 13 de noviembre, 07:11 (Buenos Aires). El d
 |---|---|---|---|---|
 | 01 | Blanco | Eyebrow: Google · 11 de noviembre. Titular: Gemini ya conversa contigo en el auto. Bajada: Google llevó Gemini Live a Apple CarPlay. Qué hace y qué necesitas. Pastillas: Gemini en CarPlay / Desliza → | Aro azul de pie y esfera perla | Ilustración 3D de un aro azul de pie, como un volante, junto a una esfera perla. Texto: Gemini ya conversa contigo en el auto. |
 | 02 | Oscuro | Titular: Gemini Live llega a la pantalla del auto. Cuerpo: Según Google, puedes conversar con Gemini sin usar las manos mientras manejas. Le preguntas por tu agenda, te pone al día con el correo o te ayuda a pensar ideas. | Pantalla ancha perla sobre base plateada y esfera azul | Ilustración 3D de una pantalla ancha perla sobre una base plateada, con una esfera azul delante. Texto: Gemini Live llega a la pantalla del auto. |
-| 03 | Gris | Titular: Es para todos sus usuarios en iPhone. Cuerpo: Según Google, se despliega en todo el mundo en los idiomas de Gemini Live, sin nombrar países. Necesitas la app actualizada, el micrófono activado y haber usado Gemini Live en el iPhone. | Esfera plateada con anillo azul | Ilustración 3D de una esfera plateada rodeada por un anillo azul inclinado. Texto: Es para todos sus usuarios en iPhone. |
+| 03 | Gris | Titular: Es para todos sus usuarios en iPhone. Cuerpo: Según Google, se despliega en todo el mundo en los idiomas de Gemini Live. Necesitas la app actualizada, el micrófono activado y haber usado Gemini Live en el iPhone. | Esfera plateada con anillo azul | Ilustración 3D de una esfera plateada rodeada por un anillo azul inclinado. Texto: Es para todos sus usuarios en iPhone. |
 | 04 | Oscuro | Titular: Agenda y correo sin tocar el celular. Cuerpo: Gemini se conecta con Gmail y Google Calendar para ponerte al día mientras manejas. El resumen diario no está disponible en el EEE, en Nigeria ni para menores de 18. | Dos tarjetas (perla y azul) y cubo blanco | Ilustración 3D de dos tarjetas finas inclinadas, una perla y otra azul, apoyadas en un cubo blanco. Texto: Agenda y correo sin tocar el celular. |
 | 05 | Blanco | Titular: ¿Qué le pedirías al volante? Cuerpo: Guarda el post para tu próximo viaje. Pastillas: Seguí a @fedex.ia / Guardar. Fuente: blog.google › | Objeto «cierre» del kit | Ilustración 3D de un marcador azul sobre una tarjeta perla. Texto: ¿Qué le pedirías al volante? |
 
