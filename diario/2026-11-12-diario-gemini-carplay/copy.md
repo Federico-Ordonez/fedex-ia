@@ -24,7 +24,7 @@ Horario de Buffer propuesto: viernes 13 de noviembre, 07:11 (Buenos Aires). El d
 | 04 | Oscuro | Titular: Agenda y correo sin tocar el celular. Cuerpo: Gemini se conecta con Gmail y Google Calendar para ponerte al día mientras manejas. El resumen diario no está disponible en el EEE, en Nigeria ni para menores de 18. | Dos tarjetas (perla y azul) y cubo blanco | Ilustración 3D de dos tarjetas finas inclinadas, una perla y otra azul, apoyadas en un cubo blanco. Texto: Agenda y correo sin tocar el celular. |
 | 05 | Blanco | Titular: ¿Qué le pedirías al volante? Cuerpo: Guarda el post para tu próximo viaje. Pastillas: Seguí a @fedex.ia / Guardar. Fuente: blog.google › | Objeto «cierre» del kit | Ilustración 3D de un marcador azul sobre una tarjeta perla. Texto: ¿Qué le pedirías al volante? |
 
-## Caption para copiar (112 palabras + 5 hashtags)
+## Caption para copiar (127 palabras + 5 hashtags)
 ```text
 Google llevó Gemini Live a Apple CarPlay el 11 de noviembre. Ahora puedes conversar con Gemini en la pantalla del auto sin usar las manos: preguntarle por tu agenda, ponerte al día con el correo o pensar ideas mientras manejas.
 
