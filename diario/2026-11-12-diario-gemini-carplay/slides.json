@@ -1,0 +1,57 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "Google · 11 de noviembre",
+   "titular": "Gemini ya conversa contigo en el auto.",
+   "bajada": "Google llevó Gemini Live a Apple CarPlay. Qué hace y qué necesitas.",
+   "pastillas": [
+    "Gemini en CarPlay",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de un aro azul de pie, como un volante, junto a una esfera perla. Texto: Gemini ya conversa contigo en el auto."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google · 11 de noviembre",
+   "titular": "Gemini Live llega a la pantalla del auto.",
+   "cuerpo": "Según Google, puedes conversar con Gemini sin usar las manos mientras manejas. Le preguntas por tu agenda, te pone al día con el correo o te ayuda a pensar ideas.",
+   "objeto": "pantalla",
+   "alt": "Ilustración 3D de una pantalla ancha perla sobre una base plateada, con una esfera azul delante. Texto: Gemini Live llega a la pantalla del auto."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "Google · 11 de noviembre",
+   "titular": "Es para todos sus usuarios en iPhone.",
+   "cuerpo": "Según Google, se despliega en todo el mundo en los idiomas de Gemini Live, sin nombrar países. Necesitas la app actualizada, el micrófono activado y haber usado Gemini Live en el iPhone.",
+   "objeto": "global",
+   "alt": "Ilustración 3D de una esfera plateada rodeada por un anillo azul inclinado. Texto: Es para todos sus usuarios en iPhone."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Google · 11 de noviembre",
+   "titular": "Agenda y correo sin tocar el celular.",
+   "cuerpo": "Gemini se conecta con Gmail y Google Calendar para ponerte al día mientras manejas. El resumen diario no está disponible en el EEE, en Nigeria ni para menores de 18.",
+   "objeto": "agenda",
+   "alt": "Ilustración 3D de dos tarjetas finas inclinadas, una perla y otra azul, apoyadas en un cubo blanco. Texto: Agenda y correo sin tocar el celular."
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Qué le pedirías al volante?",
+   "cuerpo": "Guarda el post para tu próximo viaje.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "blog.google",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul sobre una tarjeta perla. Texto: ¿Qué le pedirías al volante?"
+  }
+ ]
+}
