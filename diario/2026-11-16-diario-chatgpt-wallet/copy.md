@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # ChatGPT Wallet (OpenAI) — 16 de noviembre de 2026
 
