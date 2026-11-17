@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Google Maps · Ask Maps arma itinerarios y llama a negocios (16 nov 2026)
 
