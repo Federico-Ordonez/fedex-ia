@@ -19,7 +19,7 @@ Estado: pendiente de aprobación
 4. (oscuro) «Astra cuesta 20 % menos en la API.» Según OpenAI, Astra baja 20 % frente a su versión anterior y Sol mantiene su precio. Si pagas la API, compara con tu gasto de hoy. Objeto: dos pilas de discos, la baja con un disco azul. Alt: Ilustración 3D de dos pilas de discos plateados, la más baja con un disco azul arriba. Texto: Astra cuesta 20 % menos en la API.
 5. Cierre (blanco). «¿Qué tarea le darías a Astra primero?» Guarda el post para compararlo cuando lo tengas. Pastillas: Seguí a @fedex.ia / Guardar. Fuente: openai.com. Objeto: cierre. Alt: Ilustración 3D de un marcador azul sobre una tarjeta perla. Texto: ¿Qué tarea le darías a Astra primero?
 
-## Caption para copiar (0 palabras + 5 hashtags)
+## Caption para copiar (122 palabras + 5 hashtags)
 
 ```text
 OpenAI lanzó el 17 de noviembre GPT-6.2 Astra y GPT-6.2 Sol. Según la empresa, Astra sirve para tareas complejas, como armar documentos con la plantilla de tu empresa. Sol es la opción más económica para redactar y programar a diario.
