@@ -1,4 +1,4 @@
-Estado: programado en Buffer para el sábado 21 de noviembre 06:27 (Buenos Aires)
+Estado: publicado desde Buffer el viernes 20 de noviembre (Buenos Aires), a pedido de Fede
 
 # Gemini 4 Neon (Google, 18 de noviembre de 2026)
 
