@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini 4 Neon (Google, 18 de noviembre de 2026)
 
