@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Gemini computer use en Mac (Google, 19 de noviembre de 2026)
 
