@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # Meta Muse llega a Reino Unido (Meta) — 23 de noviembre de 2026
 
