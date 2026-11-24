@@ -19,11 +19,11 @@ Estado: pendiente de aprobación
 4. (oscuro) «Tú apruebas las compras y los correos.» Cuerpo: «Meta dice que Muse pide tu permiso antes de comprar o enviar un correo, y que no ve tus contraseñas ni tus medios de pago. Tú eliges qué apps conecta.» Objeto: esfera perla con aro azul sobre base blanca. Alt: Ilustración 3D de un aro azul que rodea una esfera perla sobre una base blanca. Texto: Tú apruebas las compras y los correos.
 5. Cierre (blanco). «¿Qué tarea le delegarías primero?» «Guarda el post para seguir el avance de los agentes.» Pastillas: Seguí a @fedex.ia · Guardar. Fuente: about.fb.com. Objeto: cierre. Alt: Ilustración 3D de un marcador azul y una tarjeta perla. Texto: ¿Qué tarea le delegarías primero?
 
-## Caption para copiar (140 palabras + 5 hashtags)
+## Caption para copiar (138 palabras + 5 hashtags)
 ```text
 Meta lanzó el 23 de noviembre Muse, su agente personal, para adultos en Reino Unido. Según la empresa, Muse envía correos, reserva viajes y completa formularios web. Sigue trabajando aunque cierres la app y vuelve cuando necesita tu aprobación.
 
-Ojo con la disponibilidad. Está para mayores de 18 años en Reino Unido, en iOS, Android, muse.ai y WhatsApp. Según Meta, es gratis para la mayoría de los usos, con planes pagos para quien necesite más, y no da precios. El anuncio solo menciona Reino Unido.
+Por ahora solo pueden usarlo mayores de 18 años en Reino Unido, desde iOS, Android, muse.ai y WhatsApp. Según Meta, es gratis para la mayoría de los usos y tiene planes pagos para quien necesite más, sin precios. El anuncio solo menciona Reino Unido.
 
 Meta dice que Muse pide tu permiso antes de comprar o enviar un correo, y que no ve tus contraseñas ni tus medios de pago.
 
