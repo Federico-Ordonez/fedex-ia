@@ -1,0 +1,57 @@
+{
+ "slides": [
+  {
+   "tipo": "portada",
+   "fondo": "blanco",
+   "eyebrow": "Anthropic · 24 de noviembre",
+   "titular": "Claude convierte artifacts en apps.",
+   "bajada": "Instala lo que crea Claude en Mac y Windows.",
+   "pastillas": [
+    "Instalar como app",
+    "Desliza →"
+   ],
+   "objeto": "portada",
+   "alt": "Ilustración 3D de un panel perla con barra grafito, junto a un cubo azul y una esfera plateada. Texto: Claude convierte artifacts en apps."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Anthropic · 24 de noviembre",
+   "titular": "Un artifact pasa a tener ventana e icono.",
+   "cuerpo": "Según Anthropic, puedes instalar lo que Claude crea como app en tu Mac o Windows. Usa tu cuenta de Claude y tus conectores.",
+   "objeto": "ventana",
+   "alt": "Ilustración 3D de un panel blanco con un cubo azul al frente, sobre una base plateada. Texto: Un artifact pasa a tener ventana e icono."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "gris",
+   "eyebrow": "Anthropic · 24 de noviembre",
+   "titular": "Está en beta en todos los planes.",
+   "cuerpo": "Funciona solo en Claude para Mac y Windows, no en web ni móvil. Anthropic no especifica en qué países está disponible, y en Enterprise un dueño debe activarlo.",
+   "objeto": "planos",
+   "alt": "Ilustración 3D de un cubo grafito, un cubo azul y un cilindro plateado sobre una base perla. Texto: Está en beta en todos los planes."
+  },
+  {
+   "tipo": "noticia",
+   "fondo": "oscuro",
+   "eyebrow": "Anthropic · 24 de noviembre",
+   "titular": "Tu herramienta queda en el escritorio.",
+   "cuerpo": "Anthropic muestra de ejemplo un editor de imágenes y un gestor de archivos. Antes de dar acceso completo al equipo, ten en cuenta que la empresa no revisa las apps.",
+   "objeto": "escritorio",
+   "alt": "Ilustración 3D de un cubo blanco, una esfera azul y un cilindro plateado sobre una losa perla. Texto: Tu herramienta queda en el escritorio."
+  },
+  {
+   "tipo": "cierre",
+   "fondo": "blanco",
+   "titular": "¿Qué instalarías primero?",
+   "cuerpo": "Guarda el post para probarlo cuando tengas la beta.",
+   "pastillas": [
+    "Seguí a @fedex.ia",
+    "Guardar"
+   ],
+   "fuente": "support.claude.com",
+   "objeto": "cierre",
+   "alt": "Ilustración 3D de un marcador azul y una tarjeta perla. Texto: ¿Qué instalarías primero?"
+  }
+ ]
+}
