@@ -1,4 +1,4 @@
-Estado: pendiente de aprobación
+Estado: aprobado, pasado a main
 
 # GPT-6.2 llega a la pestaña Chat de ChatGPT (OpenAI) — 23 de noviembre de 2026
 
